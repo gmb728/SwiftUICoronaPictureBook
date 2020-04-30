@@ -13,6 +13,7 @@
 		DD6372232459400B00FD2C37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD6372222459400B00FD2C37 /* Assets.xcassets */; };
 		DD6372262459400B00FD2C37 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD6372252459400B00FD2C37 /* Preview Assets.xcassets */; };
 		DD6372292459400B00FD2C37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD6372272459400B00FD2C37 /* LaunchScreen.storyboard */; };
+		DD6372332459557B00FD2C37 /* CompareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD6372322459557B00FD2C37 /* CompareView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DD6372252459400B00FD2C37 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DD6372282459400B00FD2C37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD63722A2459400B00FD2C37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD6372322459557B00FD2C37 /* CompareView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DD63721C2459400500FD2C37 /* AppDelegate.swift */,
 				DD63721E2459400500FD2C37 /* SceneDelegate.swift */,
 				DD6372202459400500FD2C37 /* ContentView.swift */,
+				DD6372322459557B00FD2C37 /* CompareView.swift */,
 				DD6372222459400B00FD2C37 /* Assets.xcassets */,
 				DD6372272459400B00FD2C37 /* LaunchScreen.storyboard */,
 				DD63722A2459400B00FD2C37 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				DD63721D2459400500FD2C37 /* AppDelegate.swift in Sources */,
 				DD63721F2459400500FD2C37 /* SceneDelegate.swift in Sources */,
+				DD6372332459557B00FD2C37 /* CompareView.swift in Sources */,
 				DD6372212459400500FD2C37 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

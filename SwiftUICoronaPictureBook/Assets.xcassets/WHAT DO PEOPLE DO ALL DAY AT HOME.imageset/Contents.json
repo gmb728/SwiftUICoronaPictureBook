@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "WAHT DO PELPLE DO ALL DAY AT HOME.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
